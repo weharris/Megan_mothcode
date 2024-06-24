@@ -1,0 +1,5 @@
+shutdown_enabled=True
+minutes=69
+OnlyFlash=False
+LastCalibration=1719243438.103735
+name=campoDodo
